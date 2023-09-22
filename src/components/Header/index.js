@@ -3,7 +3,7 @@ import styles from "./Header.module.scss"
 
 const index = () => {
   return (
-    <div>index</div>
+    <div>Header</div>
   )
 }
 
